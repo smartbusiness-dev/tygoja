@@ -1,4 +1,4 @@
-module github.com/pocketbase/tygoja
+module github.com/smartbusiness-dev/tygoja
 
 go 1.18
 
